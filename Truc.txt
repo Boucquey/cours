@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 POurquoi je fais des dossiers pour rien dire ??
-=======
+
 Je fais le truc pour finir
->>>>>>> test
+
